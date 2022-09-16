@@ -1,0 +1,8 @@
+C plus pluss
+C sharp
+Java
+Python
+HTML / CSS / JS / ...
+SQL / MySQL / NoSQL
+System
+Database Management
